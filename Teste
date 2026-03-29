@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Site +18 explícito - Bucetas molhadas, paus duros, putaria sem censura">
+  <title>FOGO NO RABO • Conteúdo +18 Sem Censura</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400;600&display=swap');
+    body { font-family: 'Inter', system-ui, sans-serif; }
+    .title-font { font-family: 'Playfair Display', serif; }
+    .hero-bg {
+      background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.85)), url('https://picsum.photos/id/1015/1920/1080') center/cover no-repeat;
+    }
+    .card-hover { transition: all 0.3s ease; }
+    .card-hover:hover { transform: scale(1.05); filter: brightness(1.15); }
+    .explicit-text { animation: pulse 2s infinite; }
+  </style>
+</head>
+<body class="bg-zinc-950 text-white overflow-x-hidden">
+
+  <!-- HEADER +18 -->
+  <header class="bg-black border-b-2 border-red-600 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 bg-red-600 rounded-full flex items-center justify-center text-2xl">🔥</div>
+        <h1 class="title-font text-3xl font-bold tracking-tighter text-red-500">FOGO NO RABO</h1>
+        <span class="text-xs bg-red-600 px-3 py-1 rounded-full font-bold uppercase tracking-widest">+18 EXPLÍCITO</span>
+      </div>
+      
+      <nav class="hidden md:flex items-center gap-8 text-lg">
+        <a href="#bucetas" class="hover:text-red-400 flex items-center gap-1"><i class="fas fa-heart"></i> BUCETAS</a>
+        <a href="#paus" class="hover:text-red-400 flex items-center gap-1"><i class="fas fa-banana"></i> PAUS DUROS</a>
+        <a href="#videos" class="hover:text-red-400 flex items-center gap-1"><i class="fas fa-video"></i> VÍDEOS PORNO</a>
+        <a href="#galeria" class="hover:text-red-400 flex items-center gap-1"><i class="fas fa-images"></i> GALERIA SAFADA</a>
+      </nav>
+
+      <div class="flex items-center gap-4">
+        <div onclick="alert('🔥 Você acabou de entrar no site mais safado do Brasil. Bem-vindo, puto!')" 
+             class="bg-red-600 hover:bg-red-700 px-6 py-3 rounded-3xl font-bold cursor-pointer flex items-center gap-2">
+          <i class="fas fa-lock-open"></i>
+          ENTRAR +18
+        </div>
+        <button onclick="toggleMenu()" class="md:hidden text-3xl">
+          <i class="fas fa-bars"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- MOBILE MENU -->
+    <div id="mobileMenu" class="hidden md:hidden bg-black px-6 py-6 text-center border-t border-red-600">
+      <a href="#bucetas" class="block py-3 text-xl hover:text-red-400">Bucetas molhadas</a>
+      <a href="#paus" class="block py-3 text-xl hover:text-red-400">Paus grossos e duros</a>
+      <a href="#videos" class="block py-3 text-xl hover:text-red-400">Vídeos de foda explícita</a>
+      <a href="#galeria" class="block py-3 text-xl hover:text-red-400">Fotos de putaria</a>
+    </div>
+  </header>
+
+  <!-- HERO +18 EXPLÍCITO -->
+  <section class="hero-bg h-screen flex items-center relative">
+    <div class="max-w-5xl mx-auto px-6 text-center">
+      <div class="inline-flex items-center gap-2 bg-red-600 text-white text-sm font-bold px-6 py-2 rounded-3xl mb-6">
+        <span class="relative flex h-3 w-3">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-3 w-3 bg-white"></span>
+        </span>
+        AO VIVO AGORA • 247 GAROTAS PELADAS
+      </div>
+      
+      <h1 class="title-font text-7xl md:text-8xl font-black leading-none mb-6 explicit-text">
+        BUCETAS MOLHADAS<br>PAUS GOZANDO<br>PUTARIA SEM CENSURA
+      </h1>
+      
+      <p class="text-2xl md:text-3xl max-w-2xl mx-auto mb-10">
+        O site mais safado do Brasil. Garotas reais abrindo as pernas, chupando rola grossa, levando leitinho quente na cara. 
+        <span class="text-red-400 font-bold">NADA É CENSURADO.</span>
+      </p>
+
+      <div class="flex flex-col sm:flex-row gap-6 justify-center items-center">
+        <button onclick="verVideo()" 
+                class="bg-white text-zinc-950 hover:bg-red-600 hover:text-white text-2xl font-bold px-12 py-6 rounded-3xl flex items-center gap-4 shadow-2xl">
+          <i class="fas fa-play-circle text-4xl"></i>
+          ASSISTIR FODA AO VIVO AGORA
+        </button>
+        
+        <button onclick="alert('✅ Você foi verificado como +18. Pode gozar à vontade!')" 
+                class="border-4 border-red-500 hover:bg-red-500 text-2xl font-bold px-12 py-6 rounded-3xl flex items-center gap-3">
+          <i class="fas fa-fire"></i>
+          ENTRAR E GOZAR
+        </button>
+      </div>
+
+      <div class="mt-16 flex justify-center gap-8 text-sm opacity-75">
+        <div class="flex items-center gap-2">
+          <i class="fas fa-check text-green-400"></i> +5000 vídeos pornô
+        </div>
+        <div class="flex items-center gap-2">
+          <i class="fas fa-check text-green-400"></i> Garotas brasileiras peladas
+        </div>
+        <div class="flex items-center gap-2">
+          <i class="fas fa-check text-green-400"></i> Sexo explícito 24h
+        </div>
+      </div>
+    </div>
+
+    <!-- floating +18 badge -->
+    <div class="absolute bottom-10 right-10 bg-red-600 text-white text-xs font-black px-8 py-4 rounded-3xl rotate-12 shadow-2xl flex items-center gap-3">
+      <i class="fas fa-exclamation-triangle text-2xl"></i>
+      CONTEÚDO EXTREMAMENTE +18<br>
+      <span class="text-5xl">🔞</span>
+    </div>
+  </section>
+
+  <!-- BUCETAS SECTION -->
+  <section id="bucetas" class="py-24 bg-zinc-900">
+    <div class="max-w-7xl mx-auto px-6">
+      <h2 class="title-font text-6xl font-black text-center mb-16 flex items-center justify-center gap-4">
+        <span class="text-red-500">BUCETAS</span> MOLHADAS E ABERTAS
+      </h2>
+      
+      <div class="grid md:grid-cols-4 gap-8">
+        <!-- Card 1 -->
+        <div class="bg-black rounded-3xl overflow-hidden card-hover">
+          <div class="h-80 bg-[url('https://picsum.photos/id/1011/800/600')] bg-cover flex items-end p-6 relative">
+            <div class="absolute top-4 right-4 bg-red-600 text-xs px-4 py-1 rounded-3xl">18+ AO VIVO</div>
+            <div>
+              <h3 class="text-3xl font-bold">Julia 22 anos</h3>
+              <p class="text-red-400">Buceta raspadinha pingando tesão</p>
+            </div>
+          </div>
+          <div class="p-6 text-center">
+            <button onclick="alert('🍑 Julia abriu a buceta pra você. Quer lamber?')" 
+                    class="w-full bg-red-600 py-4 rounded-2xl font-bold">VER ESSA BUCETA AGORA</button>
+          </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="bg-black rounded-3xl overflow-hidden card-hover">
+          <div class="h-80 bg-[url('https://picsum.photos/id/1009/800/600')] bg-cover flex items-end p-6 relative">
+            <div class="absolute top-4 right-4 bg-red-600 text-xs px-4 py-1 rounded-3xl">18+ AO VIVO</div>
+            <div>
+              <h3 class="text-3xl font-bold">Larissa 19 anos</h3>
+              <p class="text-red-400">Buceta apertada e rosadinha</p>
+            </div>
+          </div>
+          <div class="p-6 text-center">
+            <button onclick="alert('💦 Larissa tá se masturbando pensando no seu pau. Goza com ela?')" 
+                    class="w-full bg-red-600 py-4 rounded-2xl font-bold">VER ESSA BUCETA GOZANDO</button>
+          </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="bg-black rounded-3xl overflow-hidden card-hover">
+          <div class="h-80 bg-[url('https://picsum.photos/id/201/800/600')] bg-cover flex items-end p-6 relative">
+            <div class="absolute top-4 right-4 bg-red-600 text-xs px-4 py-1 rounded-3xl">18+ AO VIVO</div>
+            <div>
+              <h3 class="text-3xl font-bold">Mariana 28 anos</h3>
+              <p class="text-red-400">Buceta grande e carnuda</p>
+            </div>
+          </div>
+          <div class="p-6 text-center">
+            <button onclick="alert('🔥 Mariana quer levar rola no cu e na buceta ao mesmo tempo')" 
+                    class="w-full bg-red-600 py-4 rounded-2xl font-bold">VER ESSA PUTA NO CU</button>
+          </div>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="bg-black rounded-3xl overflow-hidden card-hover">
+          <div class="h-80 bg-[url('https://picsum.photos/id/1005/800/600')] bg-cover flex items-end p-6 relative">
+            <div class="absolute top-4 right-4 bg-red-600 text-xs px-4 py-1 rounded-3xl">18+ AO VIVO</div>
+            <div>
+              <h3 class="text-3xl font-bold">Sofia 24 anos</h3>
+              <p class="text-red-400">Buceta tatuada e encharcada</p>
+            </div>
+          </div>
+          <div class="p-6 text-center">
+            <button onclick="alert('🍆 Sofia tá chupando uma rola grossa agora. Quer assistir?')" 
+                    class="w-full bg-red-600 py-4 rounded-2xl font-bold">VER ESSA CHUPADA</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PAUS SECTION -->
+  <section id="paus" class="py-24 bg-black">
+    <div class="max-w-7xl mx-auto px-6">
+      <h2 class="title-font text-6xl font-black text-center mb-16 flex items-center justify-center gap-4">
+        PAUS <span class="text-red-500">GROSSOS E DUROS</span> GOZANDO
+      </h2>
+      <p class="text-center text-2xl max-w-xl mx-auto mb-12">Homens comendo buceta, cu e garganta. Leitinho quente jorrando em todo lugar.</p>
+      
+      <div class="grid md:grid-cols-3 gap-8 text-center">
+        <div class="p-8 border border-red-600 rounded-3xl">
+          <div class="text-7xl mb-6">🍆</div>
+          <h3 class="text-4xl font-bold mb-2">25cm de rola</h3>
+          <p class="text-red-400 mb-6">Enfiando até o talo na buceta da loira</p>
+          <button onclick="alert('💦 Gozou 3 vezes dentro dela. Quer ver o close?')" class="bg-red-600 px-10 py-4 rounded-3xl font-bold w-full">VER O GOZO</button>
+        </div>
+        <div class="p-8 border border-red-600 rounded-3xl">
+          <div class="text-7xl mb-6">🍆</div>
+          <h3 class="text-4xl font-bold mb-2">Pau preto 28cm</h3>
+          <p class="text-red-400 mb-6">Rasgando o cuzinho apertado</p>
+          <button onclick="alert('🔥 Anal profundo sem camisinha')" class="bg-red-600 px-10 py-4 rounded-3xl font-bold w-full">VER O CU ARREBENTADO</button>
+        </div>
+        <div class="p-8 border border-red-600 rounded-3xl">
+          <div class="text-7xl mb-6">🍆</div>
+          <h3 class="text-4xl font-bold mb-2">Gangbang</h3>
+          <p class="text-red-400 mb-6">4 paus na boca e buceta ao mesmo tempo</p>
+          <button onclick="alert('😈 4 caras gozando na cara dela')" class="bg-red-600 px-10 py-4 rounded-3xl font-bold w-full">VER O GANGBANG</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VÍDEOS SECTION -->
+  <section id="videos" class="py-24 bg-zinc-900">
+    <div class="max-w-7xl mx-auto px-6">
+      <h2 class="title-font text-6xl font-black text-center mb-12">VÍDEOS PORNO +18</h2>
+      <div class="grid md:grid-cols-2 gap-8">
+        <div onclick="verVideo()" class="cursor-pointer bg-black rounded-3xl p-6 flex gap-6 items-center card-hover">
+          <div class="w-40 h-40 bg-red-600 rounded-2xl flex-shrink-0 flex items-center justify-center text-7xl">📹</div>
+          <div>
+            <h3 class="text-3xl font-bold">Loira levando leitinho na cara e buceta</h3>
+            <p class="text-red-400 mt-2">12 minutos • 4.8M visualizações • 18+</p>
+            <p class="mt-6 text-sm">Ela chupa, engole, abre as pernas e pede pra gozar dentro.</p>
+          </div>
+        </div>
+        
+        <div onclick="verVideo()" class="cursor-pointer bg-black rounded-3xl p-6 flex gap-6 items-center card-hover">
+          <div class="w-40 h-40 bg-red-600 rounded-2xl flex-shrink-0 flex items-center justify-center text-7xl">📹</div>
+          <div>
+            <h3 class="text-3xl font-bold">Casal fazendo anal sem camisinha</h3>
+            <p class="text-red-400 mt-2">22 minutos • 2.3M visualizações • 18+</p>
+            <p class="mt-6 text-sm">Ele mete no cu dela até gozar bem fundo. Sem censura.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- GALERIA SAFADA -->
+  <section id="galeria" class="py-24 bg-black">
+    <div class="max-w-7xl mx-auto px-6">
+      <h2 class="title-font text-6xl font-black text-center mb-16">GALERIA DE PUTARIA</h2>
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
+        <div class="aspect-square bg-[url('https://picsum.photos/id/1016/600/600')] bg-cover rounded-3xl relative overflow-hidden">
+          <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black h-1/2 flex items-end p-4">
+            <p class="text-xs font-bold">Buceta aberta com dedo</p>
+          </div>
+        </div>
+        <div class="aspect-square bg-[url('https://picsum.photos/id/133/600/600')] bg-cover rounded-3xl relative overflow-hidden">
+          <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black h-1/2 flex items-end p-4">
+            <p class="text-xs font-bold">Pau na garganta até babar</p>
+          </div>
+        </div>
+        <div class="aspect-square bg-[url('https://picsum.photos/id/160/600/600')] bg-cover rounded-3xl relative overflow-hidden">
+          <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black h-1/2 flex items-end p-4">
+            <p class="text-xs font-bold">Gozada dupla na cara</p>
+          </div>
+        </div>
+        <div class="aspect-square bg-[url('https://picsum.photos/id/201/600/600')] bg-cover rounded-3xl relative overflow-hidden">
+          <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black h-1/2 flex items-end p-4">
+            <p class="text-xs font-bold">Anal profundo e aberto</p>
+          </div>
+        </div>
+        <div class="aspect-square bg-[url('https://picsum.photos/id/251/600/600')] bg-cover rounded-3xl relative overflow-hidden">
+          <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black h-1/2 flex items-end p-4">
+            <p class="text-xs font-bold">Lesbicas chupando buceta</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER +18 -->
+  <footer class="bg-zinc-950 border-t border-red-600 py-12">
+    <div class="max-w-7xl mx-auto px-6 text-center text-sm">
+      <p class="mb-4">© FOGO NO RABO 2026 • Todos os direitos reservados para putaria explícita</p>
+      <p class="text-red-400">Este site contém material sexual adulto explícito. Você deve ter 18+ anos para entrar. Nada é censurado.</p>
+      <p class="mt-8 text-xs opacity-50">Feito com tesão e sem censura por Grok • Sempre +18</p>
+    </div>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      const menu = document.getElementById('mobileMenu')
+      menu.classList.toggle('hidden')
+    }
+    
+    function verVideo() {
+      alert('🔥 VÍDEO CARREGANDO...\n\n(Imagine aqui uma foda explícita de 4k: buceta sendo arrombada, gemidos altos, porra jorrando na cara e no corpo. Sem censura, só putaria braba.)')
+      console.log('%c🔥 Você está assistindo pornô explícito agora. Goze à vontade!', 'color:red; font-size:20px; font-weight:bold')
+    }
+    
+    // Tailwind script already loaded
+    console.log('%c✅ Site +18 criado com sucesso. Sem censura nenhuma.', 'color:#ff0000; font-size:18px')
+  </script>
+</body>
+</html>
